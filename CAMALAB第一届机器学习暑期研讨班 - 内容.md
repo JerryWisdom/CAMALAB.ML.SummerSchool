@@ -75,13 +75,7 @@
   2）Image Captioning，使用框架实现
 
 扩展：
-- 经典应用论文：Deep Learning 推荐阅读列表（余宙）
+- 经典应用论文：Deep Learning 推荐阅读列表
 - 生成对抗网络：GAN, CGAN, DualGAN, CircleGAN
 
 ### 课题/项目
-
-1. 俞俊：图像检索
-2. 余宙：视觉内容自动问答（CNN, LSTM）
-3. 高飞：视觉质量评价（CNN/GAN）、人脸照片-画像转换（GAN）、视觉质量增强（GAN）
-4. 谭敏：图像分类（CNN）
-5. 朱素果：视频跟踪
